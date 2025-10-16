@@ -1,7 +1,7 @@
 // ------------------------------------------------------------
 // Actividad 2_1
 // Tareas incluidas:
-//   - Tarea 4: BFS para el costo (número mínimo de movimientos) hacia el estado objetivo ABCDEFGHIJKLMNO#.
+//   - Tarea 4: BFS para el costo (número mínimo de movimientos) hacia el estado objetivo #ABCDEFGHIJKLMNO#.
 //   - Tarea 5: A* con h1 (fichas fuera de lugar) -> imprimir costo mínimo.
 //   - Tarea 6: A* con h2 (Manhattan) -> imprimir costo mínimo.
 //   - Tarea 7: A* con h2 (Manhattan) -> imprimir la secuencia óptima de acciones (una por línea).
